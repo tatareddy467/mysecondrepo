@@ -1,3 +1,4 @@
 // jenkinsfile
 pipeline {
 }
+stage {}
